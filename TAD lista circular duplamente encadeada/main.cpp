@@ -3,13 +3,9 @@
 //Referencias: PDFs disponibilizados no moodle, e o site alphacodingskills.com
 
 //Nomes:
-//Thiago Leandro Liporace 42128481
-//Lucas Goulart de Farias Meres 42127459
+//Thiago Leandro Liporace 
+//Lucas Goulart de Farias Meres 
 
-//Autoavaliacao:
-//Thiago: Eu considero este trabalho um 10, ja que todas as operacoes funcionam como o esperado e a lista funciona sendo dupla e circular. Trabalhamos muito duro durante uma tarde inteira para finaliza-lo, apos montar algumas operacoes a mao pois nao encontravamos as respostas em nenhum local.
-
-//Lucas: Acho que considerando todo o codigo e suas funcoes, nos merecemos uma nota entre 9.5 a 10, pois colocamos bastante esforco em fazer todas as funcoes funcionarem como o desejado e o esperado delas. Abracos prof sz.
 #include <iostream>
 #include "LinkedList.h"
 using namespace std;
